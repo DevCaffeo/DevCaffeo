@@ -3,3 +3,18 @@
 <p> Estudante e Futuro desenvolvedor </p>
 <p> Atualmente sou estudande e atuando no curso técnico de Desenvolvimento de Sistemas pelo Senai Paulo antonio Skaf em São Caetano do Sul. Minhas metas são terminar o curso e virar um otimo desenvolvedor.</p>
  <link rel="stylesheet" tipo='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
+reference-pt
+├─ AsciiDoc_sample
+│   ├── AsciiDoc_Dictionary
+│   │   ├── AsciiDoc_Template-Dictionary.adoc
+│   │   └── attachments
+│   └── Reference_Terms
+│       ├── AsciiDoc_Template-Parent_Of_Entities.adoc
+│       ├── AsciiDoc_Template-Single_Entity.adoc
+│       └── attachments
+├── Language
+│   ├── Functions
+│   ├── Structure
+│   └── Variables
+├── LICENCE.md
+└── README.adoc
