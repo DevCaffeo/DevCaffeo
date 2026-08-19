@@ -8,7 +8,7 @@
 🚀 Em busca de evolução constante na tecnologia.</p>
 <img width="64" height="64" src="https://img.icons8.com/nolan/64/arduino.png" alt="arduino"/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevCaffeo/DevCaffeo/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevCaffo/DevCaffeo/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevCaffeo/DevCaffeo/output/snake.svg">
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/DevCaffeo/DevCaffeo/output/snake.svg">
 </picture>
